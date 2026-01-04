@@ -1,53 +1,100 @@
-<!-- 네온 라인 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+  
+<!-- 네온 그래픽 카드 -->
+<div style="
+  background: linear-gradient(145deg, rgba(20,20,30,0.9), rgba(10,10,20,0.9));
+  border: 3px solid;
+  border-image: linear-gradient(45deg, #FF00FF, #00FFFF, #FF00FF) 1;
+  border-radius: 25px;
+  padding: 30px 40px;
+  max-width: 700px;
+  margin: 0 auto;
+  box-shadow: 
+    0 0 40px rgba(255, 0, 255, 0.3),
+    inset 0 0 20px rgba(0, 255, 255, 0.1);
+  position: relative;
+  overflow: hidden;
+">
+
+  <!-- 배경 패턴 -->
+  <div style="
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: 
+      linear-gradient(rgba(255,0,255,0.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255,0,255,0.05) 1px, transparent 1px);
+    background-size: 30px 30px;
+    opacity: 0.5;
+  "></div>
+
+  <!-- 내용 -->
+  <div style="position: relative; z-index: 1;">
+    <div style="
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      margin-bottom: 15px;
+    ">
+      <span style="
+        font-size: 3em;
+        background: linear-gradient(45deg, #FF00FF, #00FFFF);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      ">🚀</span>
+      
+      <div style="text-align: center;">
+        <h2 style="
+          color: #FFFFFF;
+          font-size: 2.5em;
+          margin: 0;
+          font-family: 'Orbitron', 'Arial', sans-serif;
+          letter-spacing: 2px;
+          text-shadow: 0 0 10px rgba(255, 0, 255, 0.5);
+        ">
+          VISIT MY PORTFOLIO
+        </h2>
+        
+        <h3 style="
+          color: #FF99FF;
+          font-size: 1.3em;
+          margin: 10px 0 0 0;
+          font-family: 'Apple SD Gothic Neo', sans-serif;
+          font-weight: normal;
+        ">
+          포트폴리오 방문하기
+        </h3>
+      </div>
+      
+      <span style="
+        font-size: 3em;
+        background: linear-gradient(45deg, #00FFFF, #FF00FF);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+      ">💻</span>
+    </div>
+    
+    <!-- 네온 구분선 -->
+    <div style="
+      height: 3px;
+      background: linear-gradient(90deg, transparent, #FF00FF, #00FFFF, #FF00FF, transparent);
+      margin: 20px 0;
+      border-radius: 3px;
+    "></div>
+    
+    <!-- 부가 설명 -->
+    <p style="
+      color: #CCCCCC;
+      font-size: 1.1em;
+      margin: 15px 0 0 0;
+      font-family: 'Fira Code', monospace;
+    ">
+      Check out the demo on the actual site
+    </p>
+  </div>
 </div>
 
-<h3 align="center" style="color: #FF00FF;">
-  🚀 Visit My Portfolio<br/>
-  <small style="color: #FF99FF; font-size: 0.7em;">포트폴리오 방문하기</small>
-</h3>
-
-<p align="center" style="color: #CCCCCC;">
-  Explore my latest projects and development work<br/>
-  <small style="color: #AAAAAA; font-size: 0.9em;">최신 프로젝트와 개발 작업을 확인해보세요</small>
-</p>
-
-<div align="center">
-  <a href="https://www.seonghyun.dev">
-    <strong style="color: #00FFFF; font-size: 1.5em;">
-      🌐 seonghyun.dev 🌐
-    </strong>
-  </a>
-  <br/>
-  <small style="color: #888888;">
-    <em>⬅️ Click to visit / 클릭하여 방문하기 ➡️</em>
-  </small>
-</div>
-
-<h4 align="center" style="color: #FF00FF; margin-top: 20px;">
-  ✦ Full-Stack Development ✦<br/>
-  <small style="color: #FF99FF; font-size: 0.8em;">✦ 풀스택 개발 ✦</small>
-</h4>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  </p>
-</div>
-
-<!-- 네온 라인 -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
