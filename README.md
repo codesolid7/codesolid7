@@ -3,23 +3,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- Portfolio Demo -->
-<h1 style="
-  font-family: 'Fira Code', monospace;
-  font-weight: 900;
-  font-size: 3em;
-  color: #FF00FF;
-  text-shadow: 
-    0 0 5px #FF00FF,
-    0 0 10px #FF00FF,
-    0 0 15px #FF00FF,
-    0 0 20px #FF00FF,
-    0 0 30px #FF00FF;
-  margin: 20px 0;
-">
-  Portfolio Demo
-</h1>
-
 
 <p align="center" style="color: #CCCCCC;">
   Explore my latest projects and development work<br/>
