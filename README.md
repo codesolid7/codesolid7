@@ -3,7 +3,34 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&color=FF00FF&center=true&vCenter=true&width=800&height=80&lines=Portfolio+Demo&duration=0&pause=999999" alt="Portfolio Demo" />
+<!-- Portfolio Demo 네온 텍스트 -->
+<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neon-glow">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF00FF" />
+      <stop offset="50%" stop-color="#00FFFF" />
+      <stop offset="100%" stop-color="#FF00FF" />
+    </linearGradient>
+  </defs>
+  
+  <text x="300" y="60" 
+        text-anchor="middle"
+        font-family="'Fira Code', monospace"
+        font-weight="900"
+        font-size="50"
+        fill="url(#gradient)"
+        filter="url(#neon-glow)">
+    Portfolio Demo
+  </text>
+</svg>
+
 
 <p align="center" style="color: #CCCCCC;">
   Explore my latest projects and development work<br/>
