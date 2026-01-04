@@ -15,6 +15,7 @@
   
   <!-- 네온 텍스트 -->
   <h1>
+    <span>Please Visit </span>
     <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">https://www.seonghyun.dev</span>
   </h1>
 
