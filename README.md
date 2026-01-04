@@ -3,10 +3,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<h3 align="center" style="color: #FF00FF;">
-  🚀 Visit My Portfolio<br/>
-  <small style="color: #FF99FF; font-size: 0.7em;">포트폴리오 방문하기</small>
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=50&color=FF00FF&center=true&vCenter=true&width=800&height=80&lines=Portfolio+Demo&duration=0&pause=999999" alt="Portfolio Demo" />
 
 <p align="center" style="color: #CCCCCC;">
   Explore my latest projects and development work<br/>
