@@ -13,24 +13,18 @@
 <!-- 웹사이트 초대 - 간단 버전 -->
 <div align="center" style="margin: 30px 0; padding: 25px; border: 2px solid #FF00FF; border-radius: 15px; background: rgba(0, 0, 0, 0.3); max-width: 700px;">
   
-  <h3 style="color: #FF00FF; margin-bottom: 15px; font-size: 1.5em;">
+  <h3 style="color: #FF00FF; margin-bottom: 15px; font-size: 2.7em;">
     🚀 Visit My Portfolio
   </h3>
   
-  <p style="color: #CCCCCC; font-size: 1.1em; margin-bottom: 20px;">
-    Check out my latest projects and skills
-  </p>
   
   <div style="background: rgba(255, 0, 255, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF00FF;">
     <a href="https://www.seonghyun.dev" 
-       style="color: #00FFFF; font-size: 1.3em; font-weight: bold; text-decoration: none;">
+       style="color: #00FFFF; font-size: 2.3em; font-weight: bold; text-decoration: none;">
        🌐 https://www.seonghyun.dev
     </a>
   </div>
-  
-  <p style="color: #888888; margin-top: 15px; font-size: 0.9em;">
-    Modern web development & creative solutions
-  </p>
+
   
 </div>
 
