@@ -3,33 +3,22 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- Portfolio Demo 네온 텍스트 -->
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="neon-glow">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF00FF" />
-      <stop offset="50%" stop-color="#00FFFF" />
-      <stop offset="100%" stop-color="#FF00FF" />
-    </linearGradient>
-  </defs>
-  
-  <text x="300" y="60" 
-        text-anchor="middle"
-        font-family="'Fira Code', monospace"
-        font-weight="900"
-        font-size="50"
-        fill="url(#gradient)"
-        filter="url(#neon-glow)">
-    Portfolio Demo
-  </text>
-</svg>
+<!-- Portfolio Demo -->
+<h1 style="
+  font-family: 'Fira Code', monospace;
+  font-weight: 900;
+  font-size: 3em;
+  color: #FF00FF;
+  text-shadow: 
+    0 0 5px #FF00FF,
+    0 0 10px #FF00FF,
+    0 0 15px #FF00FF,
+    0 0 20px #FF00FF,
+    0 0 30px #FF00FF;
+  margin: 20px 0;
+">
+  Portfolio Demo
+</h1>
 
 
 <p align="center" style="color: #CCCCCC;">
