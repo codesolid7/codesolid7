@@ -3,14 +3,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-<!-- 웹사이트 초대 - 호환성 버전 -->
+<!-- 웹사이트 초대 - GitHub 호환 버전 -->
 <div align="center" style="margin: 40px 0; padding: 30px; border: 2px solid #FF00FF; border-radius: 15px; background: rgba(0, 0, 0, 0.4); max-width: 750px;">
   
-  <h3 style="color: #FF00FF; margin-bottom: 20px; font-size: 1.8em; line-height: 1.4;">
+  <h3 style="color: #FF00FF; margin-bottom: 20px; font-size: 1.8em;">
     🚀 Visit My Portfolio
   </h3>
   
-  <p style="color: #CCCCCC; margin-bottom: 25px; font-size: 1.1em; line-height: 1.5;">
+  <p style="color: #CCCCCC; margin-bottom: 25px; font-size: 1.1em;">
     Explore my latest projects and development work
   </p>
   
@@ -22,7 +22,6 @@
     margin: 15px 0;
   ">
     <div style="
-      display: inline-block;
       padding: 15px 25px;
       background: rgba(0, 0, 0, 0.6);
       border-radius: 8px;
@@ -35,16 +34,10 @@
            font-weight: bold; 
            text-decoration: none;
            font-family: 'Fira Code', 'Consolas', monospace;
-           letter-spacing: 1px;
-           display: inline-block;
-           transition: 0.2s;
-           position: relative;
+           display: block;
+           text-align: center;
          ">
-         <span style="margin-right: 10px;">🌐</span>
-         <span style="
-           padding-bottom: 5px;
-           border-bottom: 2px dotted #00FFFF;
-         ">seonghyun.dev</span>
+         🌐 seonghyun.dev
       </a>
       
       <div style="
@@ -52,14 +45,11 @@
         color: #888888;
         font-size: 0.9em;
         font-style: italic;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 5px;
+        text-align: center;
       ">
-        <span>⬅️</span>
-        <span>Click to visit</span>
-        <span>➡️</span>
+        <span style="margin-right: 8px;">◀</span>
+        Click to visit
+        <span style="margin-left: 8px;">▶</span>
       </div>
     </div>
   </div>
@@ -70,13 +60,12 @@
     border-top: 1px solid rgba(255, 0, 255, 0.3);
     color: #999999;
     font-size: 0.95em;
-    line-height: 1.4;
     text-align: center;
   ">
     <span style="color: #FF00FF;">✦</span>
-    <span style="margin: 0 10px;">Modern web development</span>
+    Modern web development
     <span style="color: #00FFFF;">✦</span>
-    <span style="margin: 0 10px;">React • Node.js • TypeScript</span>
+    React • Node.js • TypeScript
     <span style="color: #FF00FF;">✦</span>
   </div>
   
