@@ -17,20 +17,12 @@
     🚀 Visit My Portfolio
   </h3>
   
-  <p style="color: #CCCCCC; font-size: 1.1em; margin-bottom: 20px;">
-    Check out my latest projects and skills
-  </p>
-  
   <div style="background: rgba(255, 0, 255, 0.2); padding: 15px; border-radius: 10px; border: 1px solid #FF00FF;">
     <a href="https://www.seonghyun.dev" 
        style="color: #00FFFF; font-size: 1.3em; font-weight: bold; text-decoration: none;">
        🌐 https://www.seonghyun.dev
     </a>
   </div>
-  
-  <p style="color: #888888; margin-top: 15px; font-size: 0.9em;">
-    Modern web development & creative solutions
-  </p>
   
 </div>
 
