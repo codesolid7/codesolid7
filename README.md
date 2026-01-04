@@ -16,14 +16,9 @@
   <!-- 네온 텍스트 -->
   <h1>
     <span>please visit my site: </span>
-    <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF, text-decoration: none;"">https://www.seonghyun.dev</span>
+    <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF; text-decoration: none;">https://www.seonghyun.dev</span>
   </h1>
 
-</div>
-
-<!-- 네온 구분선 -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
 <!-- 네온 기술 스택 -->
