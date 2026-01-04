@@ -15,9 +15,7 @@
   
   <!-- 네온 텍스트 -->
   <h1>
-    <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">HELLO, I'M</span>
-    <br/>
-    <span style="color: #00FFFF; text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;">DEVELOPER</span>
+    <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">HELLO, I'M YOUR DEVELOPER</span>
   </h1>
   
   <!-- 네온 배지 -->
