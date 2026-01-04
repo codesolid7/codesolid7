@@ -17,18 +17,10 @@
   <h1>
     <span style="color: #FF00FF; text-shadow: 0 0 10px #FF00FF, 0 0 20px #FF00FF, 0 0 30px #FF00FF;">HELLO, I'M YOUR DEVELOPER</span>
   </h1>
-  
-  <!-- 네온 배지 -->
-  <p>
-    <img src="https://img.shields.io/badge/NEON-FUCHSIA-FF00FF?style=for-the-badge&logo=aura&logoColor=white" alt="Neon" />
-    <img src="https://img.shields.io/badge/CODE-CYAN-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Code" />
-    <img src="https://img.shields.io/badge/CREATE-MAGENTA-FF00FF?style=for-the-badge&logo=sparkles&logoColor=white" alt="Create" />
-  </p>
-  
+
 </div>
 
 <!-- 네온 구분선 -->
-<br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
