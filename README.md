@@ -9,6 +9,20 @@
   <em>From planning to deployment, I build and prove through projects</em>
 </p>
 
+<!-- 여행과 코딩 -->
+<div align="center">
+  <img src="./travel_coding.gif" width="300" />
+  <br/><br/>
+  <h3>🚴 프로그래밍은 여행과 같다</h3>
+  <p>
+    <em>"새로운 길을 탐험하고, 예상치 못한 풍경을 만나며,<br/>
+    때로는 길을 잃기도 하지만 결국 목적지에 도착합니다.<br/>
+    그 여정 자체가 성장입니다."</em>
+  </p>
+</div>
+
+<br/>
+
 <!-- 통계 배지 -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=codesolid7&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" />
