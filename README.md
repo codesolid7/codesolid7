@@ -3,15 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SeongHyun%20Kim&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI-Powered%20Product%20Developer&descAlignY=52&descSize=18" width="100%" />
 </div>
 
-<!-- 소개 -->
-<p align="center">
-  <strong>기획부터 배포까지, 직접 만들어 프로젝트로 증명합니다</strong><br/>
-  <em>From planning to deployment, I build and prove through projects</em>
-</p>
-
 <!-- 여행과 코딩 -->
 <div align="center">
-  <img src="./travel_coding.gif" width="300" />
+  <img src="./travel_coding.gif" width="100%" />
   <br/><br/>
   <h3>🚴 프로그래밍은 여행과 같다</h3>
   <p>
